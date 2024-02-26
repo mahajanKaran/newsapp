@@ -21,9 +21,9 @@
 
 
 ## 🚀 About Me
-Hi! My name is Shivangi Mundra, I work as a Software Developer and like to expand my skill set in my spare time.
+Hi! My name is Karan Mahajan, I work as a Lead Android Engineer and like to expand my skill set in my spare time.
 
 If you have any questions or want to connect, feel free to reach out to me on :
 
-- [LinkedIn](https://www.linkedin.com/in/shivangi-mundra-9a31b65b/)
+- [LinkedIn](https://linkedin.com/in/karan-mahajan-a91b9749/)
 
